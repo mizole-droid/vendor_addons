@@ -25,6 +25,7 @@ endif
 
 # Turbo Prebuilt package for Battery Estimates
 PRODUCT_PACKAGES += \
+    SettingsIntelligenceGooglePrebuilt \
     TurboPrebuilt
 
 # Fonts
