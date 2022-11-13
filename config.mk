@@ -23,10 +23,6 @@ PRODUCT_PACKAGES += \
     UdfpsAnimations
 endif
 
-# Turbo Prebuilt package for Battery Estimates
-PRODUCT_PACKAGES += \
-    SettingsIntelligenceGooglePrebuilt \
-    TurboPrebuilt
 
 # Fonts
 PRODUCT_PACKAGES += \
