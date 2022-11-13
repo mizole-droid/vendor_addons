@@ -39,6 +39,7 @@ PRODUCT_PACKAGES += \
     FontKoruriOverlay \
     FontLatoOverlay \
     FontNunitoOverlay \
+	FontOhruriOverlay \
     FontOswaldOverlay \
     FontRedressedOverlay \
     FontReemKufiOverlay \
