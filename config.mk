@@ -146,6 +146,9 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     AndroidBlackThemeOverlay \
     crDroidThemesStub
+    
+PRODUCT_PACKAGES += \
+     Bromite
 
 # Include {Lato,Rubik} fonts
 $(call inherit-product-if-exists, external/google-fonts/lato/fonts.mk)
