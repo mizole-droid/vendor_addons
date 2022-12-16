@@ -36,6 +36,7 @@ PRODUCT_PACKAGES += \
     FontCoolstoryOverlay \
     FontExotwoOverlay \
     FontGrandHotelOverlay \
+    FontHuiOverlay \
     FontKoruriOverlay \
     FontLatoOverlay \
     FontNunitoOverlay \
